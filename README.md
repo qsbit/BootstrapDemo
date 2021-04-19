@@ -1,2 +1,2 @@
 # BootstrapDemo
-基于bootstrap网页开发
+基于bootstrap的一个网页开发小demo
